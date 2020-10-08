@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\heavy\Desktop\project\Profile\src\main.ts */"zUnb");
+module.exports = __webpack_require__(/*! C:\Users\heavy\Desktop\project\profile\src\main.ts */"zUnb");
 
 
 /***/ }),
@@ -217,7 +217,7 @@ SectionComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "div", 7);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "h4");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, "\u0413\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, "\u0413\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0435 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043D\u0438\u0435(\u0426\u0411)");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "p");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "01/03/2020-01/08/2020");
@@ -225,7 +225,7 @@ SectionComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "div", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, "\u041E\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043B\u044F\u043B \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0443 \u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445: MySQL.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, "\u041E\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043B\u044F\u043B \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0443 \u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445: \u0431\u044D\u043A\u0430\u043F \u0438 \u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435 \u0431\u0430\u0437\u044B.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -284,7 +284,7 @@ SectionComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "div", 17);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](50, "25 \u043B\u0435\u0442, \u043C\u0443\u0436\u0447\u0438\u043D\u0430, \u043D\u0435 \u0436\u0435\u043D\u0430\u0442, \u0434\u0435\u0442\u0435\u0439 \u043D\u0435 \u0438\u043C\u0435\u044E, \u0436\u0438\u0432\u0443 \u0432 \u041A\u0440\u0430\u0441\u043D\u043E\u0434\u0430\u0440\u0441\u043A\u043E\u043C \u043A\u0440\u0430\u0435. \u041A\u043E\u043C\u0430\u043D\u0434\u0438\u0440\u043E\u0432\u043A\u0430\u043C \u043D\u0435 \u0433\u043E\u0442\u043E\u0432.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](50, "25 \u043B\u0435\u0442, \u043C\u0443\u0436\u0447\u0438\u043D\u0430, \u043D\u0435 \u0436\u0435\u043D\u0430\u0442, \u0434\u0435\u0442\u0435\u0439 \u043D\u0435 \u0438\u043C\u0435\u044E, \u0436\u0438\u0432\u0443 \u0432 \u041A\u0440\u0430\u0441\u043D\u043E\u0434\u0430\u0440\u0441\u043A\u043E\u043C \u043A\u0440\u0430\u0435.\u041A \u043A\u043E\u043C\u0430\u043D\u0434\u0438\u0440\u043E\u0432\u043A\u0430\u043C \u043D\u0435 \u0433\u043E\u0442\u043E\u0432.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
